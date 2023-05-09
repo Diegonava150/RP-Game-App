@@ -1,2 +1,5 @@
 # RP-Game-App
-A RP Game App built with JavaScript as a learning project.
+
+11th Project
+
+** Creating projects including simple and advanced ones.
